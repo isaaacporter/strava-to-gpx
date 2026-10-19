@@ -38,4 +38,4 @@ https://www.strava.com/activities/<id>/streams?stream_types[]=latlng&stream_type
 ## Credits
 
 Credit to [mapstogpx.com](https://mapstogpx.com/strava) for the idea.
-This is a complete re-write the only runs in the browser and does not load any code from external sources.
+This is a complete re-write that only runs in the browser and does not load any code from external sources.
